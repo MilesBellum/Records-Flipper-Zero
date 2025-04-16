@@ -30,6 +30,8 @@ Infrared
 - Xbox 360 Media remote control - Full map.
 - Sony TV RM-YD070 remote control - Full map.
 - Sony BD RMT-B109A remote control - Full map.
+- Samsung TV CU8000 remote control - Full map.
+- Honeywell Air Cooler CL152 remote control - Full map.
 
 Contact
 ----------
